@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Soy una desarrolladora web apasionada con experiencia en diseño limpio y receptivo. Me enfoco en crear sitios funcionales que brinden una excelente experiencia al usuario. Tengo habilidades en HTML, JS y CSS.<br><br>I'm a passionate web developer with experience in clean and responsive design. I focus on creating functional sites that provide an excellent user experience. I have skills in HTML, JS, and CSS.
+<br><br>Soy una desarrolladora web con experiencia en diseño limpio y receptivo. Me enfoco en crear sitios funcionales que brinden una excelente experiencia al usuario. Tengo habilidades en HTML, JS y CSS.<br><br>I'm a passionate web developer with experience in clean and responsive design. I focus on creating functional sites that provide an excellent user experience. I have skills in HTML, JS, and CSS.
 
 
 ## 🌐 Socials:
